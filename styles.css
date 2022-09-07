@@ -13,3 +13,29 @@ h1 {
     color: #bc3908;
 }
 
+
+ul {
+    margin-top: 20vw;
+    margin-left: 30vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2vw;
+    list-style: none;
+}
+
+li {
+    padding-top: 1em;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #bc3908;
+}
