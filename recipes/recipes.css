@@ -1,0 +1,31 @@
+body {
+    background-color: #fcf6bd;
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    max-width: 800px;
+    max-height: 600px;
+    display: block;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #bc3908;
+}
